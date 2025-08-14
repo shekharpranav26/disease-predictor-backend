@@ -324,8 +324,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ***
 
-
-
-**Built with ❤️ for better healthcare accessibility**
-
 [Report Bug](https://github.com/yourusername/disease-predictor-backend/issues) -  [Request Feature](https://github.com/yourusername/disease-predictor-backend/issues)
